@@ -1,0 +1,47 @@
+
+{
+    "coord": {
+        "lon": 28.9833,
+        "lat": 41.0351
+    },
+    "weather": [
+        {
+            "id": 521,
+            "main": "Rain",
+            "description": "shower rain",
+            "icon": "09n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 11.77,
+        "feels_like": 11.46,
+        "temp_min": 11.68,
+        "temp_max": 15.59,
+        "pressure": 1002,
+        "humidity": 94
+    },
+    "visibility": 4000,
+    "wind": {
+        "speed": 2.06,
+        "deg": 310
+    },
+    "rain": {
+        "1h": 0.24
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1638889136,
+    "sys": {
+        "type": 1,
+        "id": 6970,
+        "country": "TR",
+        "sunrise": 1638854139,
+        "sunset": 1638887745
+    },
+    "timezone": 10800,
+    "id": 745042,
+    "name": "Istanbul",
+    "cod": 200
+}
